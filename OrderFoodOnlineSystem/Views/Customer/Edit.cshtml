@@ -1,0 +1,138 @@
+﻿@model OrderFoodOnlineSystem.ViewModels.CustomerViewModels.UpdateCustomerViewModel
+
+@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+
+<section class="register-restaurent-sec section-padding bg-light-theme">
+    <div class="container-fluid padding-15 ps-4">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="sidebar-tabs main-box padding-20 mb-md-40">
+                    <div id="add-restaurent-tab" class="step-app">
+                        <div class="row">
+                            
+                            <div class="col-xl-4 col-lg-5 mb-md-40">
+                                
+                                <ul class="step-steps steps-2">
+                                    <li class="add-res-tab active" id="stepbtn1">
+                                        <a asp-action="Edit" asp-controller="Customer" class="add-res-tab">Account</a>
+                                    </li>
+                                    <li class="add-res-tab" id="stepbtn3">
+                                        <a asp-action="GetAllCustomerOrders" asp-controller="Order" class="add-res-tab">Your Orders</a>
+                                    </li>
+                                    <li class="add-res-tab" id="stepbtn2">
+                                        <a asp-action="GetAllFavourites" asp-controller="FavouriteRestaurant" class="add-res-tab">Favorite Restaurants</a>
+                                    </li>
+
+                                    <li class="add-res-tab" id="stepbtn2">
+                                        <a asp-action="Index" asp-controller="Address" class="add-res-tab">Saved Addresses</a>
+                                    </li>
+
+                                    <li class="add-res-tab" id="stepbtn2">
+                                        <a asp-action="Index" asp-controller="Review" class="add-res-tab">Your Reviews</a>
+                                    </li>
+
+                                    <li class="add-res-tab" id="stepbtn2">
+                                        <a asp-action="Delete" asp-controller="Customer" onclick="return confirm('Are you sure you want to delete this account?');" class="add-res-tab">Delete Account</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+
+                            <div class="col-xl-8 col-lg-7">
+                                <div class="step-content">
+                                    <div class="step-tab-panel active" id="steppanel1">
+                                        <div class="general-sec">
+                                            <form class="py-10" style="min-height: 660px;" asp-action="Edit">
+                                                <div class="row">
+                                                    <div class="col-12 mb-3">
+                                                        <h5 class="text-light-black fw-700">Edit Account Information</h5>
+                                                    </div>
+                                                    <input type="hidden" asp-for="@Model.Id" />
+                                                    <div class="col-md-6 mb-3">
+                                                        <div class="form-group">
+                                                            <label class="text-light-black fw-700">First Name</label>
+                                                            <input asp-for="FirstName" class="form-control form-control-submit" placeholder="Enter Your First Name">
+                                                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 mb-3">
+                                                        <div class="form-group">
+                                                            <label class="text-light-black fw-700">Last Name</label>
+                                                            <input asp-for="LastName" class="form-control form-control-submit" placeholder="Enter Your Last Name">
+                                                            <span asp-validation-for="LastName" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group">
+                                                            <label class="text-light-black fw-700">Email</label>
+                                                            <input asp-for="Email" class="form-control form-control-submit" placeholder="i.e alard@example.com" readonly>
+                                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group position-relative">
+                                                            <label asp-for="CurrentPassword" class="text-light-black fw-700"></label>
+                                                            <div class="position-relative">
+                                                                <input asp-for="CurrentPassword" id="password-field" class="form-control form-control-submit" placeholder="Password">
+                                                                <i class="fa fa-fw fa-eye position-absolute top-50 end-0 translate-middle-y me-4 toggle-password" data-name="#password-field" style="cursor: pointer;"></i>
+                                                            </div>
+                                                            <span asp-validation-for="CurrentPassword" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-6 mb-3">
+                                                        <div class="form-group position-relative">
+                                                            <label asp-for="NewPassword" class="text-light-black fw-700"></label>
+                                                            <div class="position-relative">
+                                                                <input asp-for="NewPassword" id="password-field1" class="form-control form-control-submit" placeholder="Password">
+                                                                <i class="fa fa-fw fa-eye position-absolute top-50 end-0 translate-middle-y me-4 toggle-password" data-name="#password-field1" style="cursor: pointer;"></i>
+                                                            </div>
+                                                            <span asp-validation-for="NewPassword" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-6 mb-3">
+                                                        <div class="form-group position-relative">
+                                                            <label asp-for="ConfirmNewPassword" class="text-light-black fw-700"></label>
+                                                            <div class="position-relative">
+                                                                <input asp-for="ConfirmNewPassword" id="password-field2" class="form-control form-control-submit" placeholder="Confirm Password">
+                                                                <i class="fa fa-fw fa-eye position-absolute top-50 end-0 translate-middle-y me-3 toggle-password" data-name="#password-field2" style="cursor: pointer;"></i>
+                                                            </div>
+                                                            <span asp-validation-for="ConfirmNewPassword" class="text-danger"></span>
+                                                        </div>
+
+                                                    <div asp-validation-summary="All" class="text-danger"></div>
+                                                    <div class="col-md-12 mb-5">
+                                                        <div class="form-group">
+                                                            <button type="submit" class="btn-second btn-submit">Save</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+                <!-- Side banner carousel content here -->
+            <partial name="_SliderPartial" model="Model" />        
+        
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

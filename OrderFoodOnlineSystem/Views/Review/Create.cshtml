@@ -1,0 +1,224 @@
+﻿@model OrderFoodOnlineSystem.ViewModels.ReviewViewModel.CreateReviewViewModel
+
+@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+
+<style>
+    /* Style labels */
+    label {
+        font-size: 15px;
+    }
+
+    .header-container {
+        display: flex;
+        align-items: center; /* Aligns items vertically */
+        justify-content: center; /* Centers content horizontally */
+        gap: 20px; /* Space between elements */
+        width: 100%; /* Ensures it takes full width */
+        position: relative;
+        text-align: center;
+    }
+
+        .header-container .back {
+            position: absolute;
+            left: 0; /* Ensures the back button stays on the left */
+        }
+
+    .back {
+        background-color: white;
+        color: black;
+        font-weight: 700;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        line-height: 1;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow */
+        margin-top: 32px; /* Moves the button slightly downward */
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+    }
+
+
+    h4 label.text-light-black.fw-700 {
+        margin-top: 20px; /* Reduce space below the label */
+    }
+
+
+
+
+    .rating {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: start;
+        margin-top: -20px; /* Reduce space between label and stars */
+        margin-bottom: -18px; /* Reduce space between stars and the comment label */
+    }
+
+        .rating input {
+            display: none;
+        }
+
+        .rating label {
+            font-size: 40px;
+            color: #ccc;
+            cursor: pointer;
+            transition: color 0.3s;
+            padding: 0 3px;
+        }
+
+            .rating label:before {
+                content: '\2605';
+            }
+
+        .rating input:checked ~ label {
+            color: gold;
+        }
+
+        .rating label:hover,
+        .rating label:hover ~ label {
+            color: gold;
+        }
+</style>
+<!-- Navigation -->
+<section class="register-restaurent-sec section-padding bg-light-theme">
+    <div class="container-fluid padding-20 ps-4">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-8">
+                <div class="sidebar-tabs main-box padding-30 mb-md-40">
+                    <div id="add-restaurent-tab" class="step-app">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-8 col-lg-7 col-sm-7 d-flex justify-content-center align-items-center" style="min-height: 65vb;">
+                                <div class="step-content">
+                                    <div class="step-tab-panel active" id="steppanel1">
+                                        <div class="general-sec">
+
+                                            <form asp-action="Create" method="post" class="py-10" style="min-height: 300px;">
+                                                <input type="hidden" asp-for="RestaurantId" value="@ViewBag.RestaurantId" />
+                                                <input type="hidden" asp-for="CustomerId" value="@ViewBag.CustomerId" />
+                                                <div class="row">
+                                                    <div class="col-12 mb-3">
+                                                        <!-- Flex container for back button and heading -->
+                                                        <div class="header-container">
+                                                            <a asp-action="Details" asp-controller="Restaurant" asp-route-id="@ViewBag.RestaurantId" class="btn back"> < </a>
+                                                            <h2 class="text-light-black fw-700 mb-3 mt-5">
+                                                                Review For <span fw-700" style="font-size: 28px;"> @ViewBag.RestaurantName</span>
+                                                            </h2>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="col-md-12 mb-2">
+                                                        <div class="form-group">
+                                                            <h4>
+                                                                <label class="text-light-black fw-700">Rating</label>
+                                                            </h4>
+                                                            <div class="rating">
+                                                                <input type="radio" asp-for="Rating" id="star5" value="5">
+                                                                <label for="star5"></label>
+                                                                <input type="radio" asp-for="Rating" id="star4" value="4">
+                                                                <label for="star4"></label>
+                                                                <input type="radio" asp-for="Rating" id="star3" value="3">
+                                                                <label for="star3"></label>
+                                                                <input type="radio" asp-for="Rating" id="star2" value="2">
+                                                                <label for="star2"></label>
+                                                                <input type="radio" asp-for="Rating" id="star1" value="1">
+                                                                <label for="star1"></label>
+                                                            </div>
+                                                            <span asp-validation-for="Rating" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-12 mb-5">
+                                                        <div class="form-group">
+                                                            <h4>
+                                                                <label class="text-light-black fw-700">Comment</label>
+                                                            </h4>
+                                                            <textarea asp-for="Comment" class="form-control form-control-submit" placeholder="Enter your comment"></textarea>
+                                                            <span asp-validation-for="Comment" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+                                                    <div asp-validation-summary="All" class="text-danger"></div>
+                                                    <div class="col-md-12 mb-5">
+                                                        <div class="form-group d-flex justify-content-center">
+                                                            <button type="submit" class="btn-second btn-submit">Save</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Side banner carousel content here -->
+            <div class="col-lg-3  pe-5" style="min-height: 400px;">
+                <section id="sidebannerCarousel" class="about-us-slider swiper-container p-relative" data-bs-ride="carousel">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide slide-item active">
+                            <div class="large-product-box p-relative pb-0">
+                                <img src="~/assets/img/sidebanner-1.jpg" class="img-fluid full-width" alt="image">
+                                <div class="overlay padding-20">
+
+                                    <div class="content-wrapper">
+                                        <h3 class="text-custom-white">All New Restaurants</h3>
+                                        <a href="#" class="btn-submit btn-second">Get Deals</a>
+                                    </div>
+                                </div>
+                                <div class="overlay overlay-bg"></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide slide-item">
+                            <div class="large-product-box p-relative pb-0">
+                                <img src="~/assets/img/sidebanner-2.jpg" class="img-fluid full-width" alt="image">
+                                <div class="overlay padding-20">
+
+                                    <div class="content-wrapper">
+                                        <h3 class="text-custom-white">50% Discount on All New Restaurants</h3>
+                                        <a href="#" class="btn-submit btn-second">Get Deals</a>
+                                    </div>
+                                </div>
+                                <div class="overlay overlay-bg"></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide slide-item">
+                            <div class="large-product-box p-relative pb-0">
+                                <img src="~/assets/img/sidebanner-3.jpg" class="img-fluid full-width" alt="image">
+                                <div class="overlay padding-20">
+
+                                    <div class="content-wrapper">
+                                        <h3 class="text-custom-white">50% Discount on All New Restaurants</h3>
+                                        <a href="#" class="btn-submit btn-second">Get Deals</a>
+                                    </div>
+                                </div>
+                                <div class="overlay overlay-bg"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#sidebannerCarousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#sidebannerCarousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </section>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

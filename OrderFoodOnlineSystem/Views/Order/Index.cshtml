@@ -1,0 +1,73 @@
+﻿@model IEnumerable<OrderFoodOnlineSystem.ViewModels.OrderViewModels.OrderViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalPrice)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressDetails)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RestaurantName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressDetails)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RestaurantName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <form asp-action="Delete" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this Order?');">
+                            Delete
+                        </button>
+                    </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

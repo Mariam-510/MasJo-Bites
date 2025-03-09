@@ -1,0 +1,117 @@
+﻿@model OrderFoodOnlineSystem.ViewModels.MenuItemViewModel.CreateMenuItemViewModel
+
+@{
+    Layout = "~/Views/Shared/_RestaurantManagerLayout.cshtml";
+}
+
+<section class="register-restaurent-sec section-padding bg-light-theme">
+    <div class="container-fluid padding-20 ps-4">
+        <div class="row d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+            <!-- Added align-items-center and min-height -->
+            <div class="col-lg-8">
+                <div class="sidebar-tabs main-box padding-30 mb-md-40">
+                    <div id="add-restaurent-tab" class="step-app">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-8 col-lg-7 col-sm-7 d-flex justify-content-center">
+                                <div class="step-content w-100">
+                                    <!-- Added w-100 to ensure full width -->
+                                    <div class="step-tab-panel active" id="steppanel1">
+                                        <div class="general-sec">
+                                            <form asp-action="Create" asp-controller="MenuItem" enctype="multipart/form-data" style="min-height: 700px;">
+                                                <div class="row">
+                                                    <div class="col-12 mb-3 mt-5">
+                                                        <h5 class="text-light-black fw-700 text-center">Add Menu Item</h5>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group">
+                                                            <label asp-for="Name" class="text-light-black fw-700"></label>
+                                                            <input asp-for="Name" class="form-control form-control-submit" placeholder="Enter name">
+                                                            <span asp-validation-for="Name" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group">
+                                                            <label asp-for="Description" class="text-light-black fw-700"></label>
+                                                            <input asp-for="Description" class="form-control form-control-submit" placeholder="Enter description">
+                                                            <span asp-validation-for="Description" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group">
+                                                            <label asp-for="Price" class="text-light-black fw-700"></label>
+                                                            <input asp-for="Price" class="form-control form-control-submit" placeholder="Enter price">
+                                                            <span asp-validation-for="Price" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-check">
+                                                            <input class="form-check-input" type="checkbox" asp-for="IsAvailable" id="IsAvailableCheckbox">
+                                                            <label asp-for="IsAvailable" class="form-check-label text-light-black fw-700" for="IsAvailableCheckbox"></label>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-12 mb-3">
+                                                        <div class="form-group">
+                                                            <label asp-for="ImageFile" class="text-light-black fw-700"></label>
+                                                            <input type="file" asp-for="ImageFile" class="form-control form-control-submit" id="imageUpload" onchange="previewImage(event)">
+                                                            <img id="preview" src="" alt="New Image" style="max-width:150px; display:none; margin-top:10px;" />
+                                                            <span asp-validation-for="ImageFile" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="col-md-6 mb-3">
+                                                        <div class="form-group">
+                                                            <label asp-for="CategoryId" class="text-light-black fw-700"></label>
+                                                            <select asp-for="CategoryId" class="form-control form-control-submit" asp-items="ViewBag.CategoryId">
+                                                                <option value="">Select a category</option>
+                                                            </select>
+                                                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                                                        </div>
+                                                    </div>
+
+                                                    <div asp-validation-summary="All" class="text-danger"></div>
+                                                    <div class="col-md-12 mb-5 text-center">
+                                                        <div class="form-group">
+                                                            <button type="submit" class="btn-second btn-submit">Add</button>
+                                                        </div>
+                                                    </div>
+
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<script>
+    function previewImage(event) {
+        var preview = document.getElementById('preview');
+        var file = event.target.files[0];
+
+        if (file) {
+            var reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                preview.style.display = 'block'; // Show the image
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+</script>
