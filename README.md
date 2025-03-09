@@ -10,7 +10,7 @@ Key Features:
 - View restaurant menus, categorized for easy navigation.
 - Order food items with quantity selection and automatic cart updates  
 - Favorite restaurants and manage personal reviews  
-- Secure checkout** with PayPal and cash payment options 🔹 (PayPal integration ensures secure and seamless transactions)
+- Secure checkout with PayPal and cash payment options (PayPal integration ensures secure and seamless transactions)
 - View delivery fees, total price, and confirm orders before checkout  
 - Track order status in real time  
 - Google Authentication for easy and secure login  
