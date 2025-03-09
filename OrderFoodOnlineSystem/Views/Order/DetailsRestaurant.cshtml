@@ -1,0 +1,26 @@
+﻿@model OrderFoodOnlineSystem.ViewModels.OrderViewModels.DetailsOrderViewModel
+
+@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+
+<div class="main-sec"></div>
+<!-- Navigation -->
+<!-- tracking map -->
+<section class="checkout-page section-padding bg-light-theme">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-end mt-n5 ">
+
+                    <a asp-action="GetAllRestaurantOrders" asp-controller="Order"
+                       class="btn btn-outline-danger fw-bold ms-2 px-4 py-2 mt-1 ">All Orders</a>
+                </div>
+                <br>
+
+                <partial name="_OrderDetailsPartial" model="Model" />
+
+            </div>
+        </div>
+    </div>
+</section>

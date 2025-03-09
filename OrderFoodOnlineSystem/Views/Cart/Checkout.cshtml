@@ -1,0 +1,235 @@
+﻿@model OrderFoodOnlineSystem.ViewModels.CartViewModels.CartViewModel
+
+@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+
+<div class="main-sec"></div>
+<!-- Navigation -->
+<section class="final-order section-padding bg-light-theme">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="main-box padding-20">
+                    <div class="row mb-xl-20">
+                        <div class="col-md-6">
+                            <div class="section-header-left">
+                                <h3 class="text-light-black header-title fw-700">Review and place order</h3>
+                            </div>
+                            <p class="text-light-green fw-700">Your order setting</p>
+
+                            <div class="mb-1">
+                                <span class="text-light-black fw-600"> From:</span>
+                                <span class="text-light-white title2 mb-1"> @User.FindFirst("FName")?.Value </span>
+                            </div>
+
+                            <div class="mb-1">
+                                <span class="text-light-black fw-600"> Address</span>
+                                <span class="ml-5">
+                                    <a asp-action="Index" asp-controller="Address" asp-route-viewName="IndexAddress">Change Details</a>
+                                </span>
+                            </div>
+
+                            <p class="text-light-white mb-1">
+                                @Model.SelectedAddress?.Street @Model.SelectedAddress?.City
+                                <br>Apartment @Model.SelectedAddress?.Apartment - Floor @Model.SelectedAddress?.Floor
+                            </p>
+                            <p class="text-light-white">@Model.SelectedAddress?.PhoneNum</p>
+                        </div>
+                        <div class="col-md-6">
+                            @* <div class="advertisement-img"> *@
+                            @*     <img src="~/assets/img/checkout.jpg" class="img-fluid full-width" alt="advertisement-img"> *@
+                            @* </div> *@
+
+                            <div class="advertisement-img">
+                                <img src="~/assets/img/checkout.png" class="img-fluid mx-auto d-block mt-4" alt="advertisement-img" style="max-width: 65%; height: auto;">
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="payment-sec">
+
+
+                                <div class="section-header-left">
+                                    <h3 class="text-light-black header-title">Payment</h3>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div id="accordion">
+                                            <div class="card">
+
+                                                <div id="collapseOne" class="collapse" data-parent="#accordion">
+                                                    <div class="card-body no-padding payment-option-tab">
+                                                        <div class="form-group">
+                                                            <div class="credit-card gift-card p-relative">
+                                                                <input type="text" name="#" class="form-control-submit fs-16" value="AC2B76">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+
+                                                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                                    <div class="card-body no-padding payment-option-tab">
+                                                        <div class="form-group">
+                                                            <div class="credit-card promocode p-relative input-group">
+                                                                <input type="text" name="#" class="form-control-submit fs-16" placeholder="AC2B76">
+                                                                <button type="submit" class="btn-second btn-submit ml-1">Apply</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                            <div class="d-flex full-width w-100">
+                                                <div class="payment-option-tab">
+                                                    <ul class="nav nav-tabs">
+
+                                                        <li class="nav-item">
+                                                            <a class="text-light-green fw-600" data-toggle="tab" href="#cash">Cash</a>
+                                                        </li>
+
+                                                    </ul>
+                                                    <div class="tab-content">
+                                                        @* Cash *@
+                                                        <div id="cash" class="tab-pane fade show active">
+                                                            <p class="text-light-black">Have the cash ready when you receive your order.</p>
+                                                            <div class="form-group">
+                                                                <a asp-action="PlaceOrder" asp-controller="Order" asp-route-paymentMethod="Cash"
+                                                                   class="btn btn-success text-custom-white w-100 py-2">
+                                                                    Place Your Order
+                                                                </a>
+                                                            </div>
+                                                        </div>
+
+                                                        @* PayPal *@
+                                                        <div>
+                                                            <!--edits-->
+                                                            <ul class="nav nav-tabs">
+                                                                <li class="nav-item">
+                                                                    <a class="text-light-green fw-600" data-toggle="tab" href="#">PayPal</a>
+                                                                </li>
+                                                            </ul>
+                                                            <!--edits-->
+                                                            <p class="text-light-black">Please review your order and make any necessary changes before checking out with PayPal.</p>
+                                                            <div class="form-group ">
+                                                                                                                                
+                                                                <div id="paypal-button-container"></div>
+
+                                                            </div>
+                                                            <p class="text-center text-light-black no-margin">
+                                                                By placing your order, you agree to Munchbox's <a href="#">terms of use</a> and <a href="#">privacy agreement</a>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="sidebar">
+                    <div class="cart-detail-box">
+                        <div class="card">
+                            <div class="card-header padding-15 fw-700">
+                                Your order from Restaurant
+                                <p class="text-light-white no-margin fw-500">@Model.Restaurant?.Name</p>
+                            </div>
+                            <div class="card-body no-padding" id="scrollstyle-4">
+
+                                @if (Model?.OrderItems !=null)
+                                {
+                                    foreach (var orderItem in Model?.OrderItems)
+                                    {
+                                        <div class="cat-product-box">
+                                            <div class="cat-product">
+                                                <div class="cat-name">
+                                                    <a href="#">
+                                                        <p class="text-light-green fw-700">
+                                                            <span class="text-dark-white">@orderItem.Quantity</span>
+                                                            @orderItem.Name
+                                                        </p>
+                                                    </a>
+                                                </div>
+                                                <div class="price">
+                                                    <a href="#" class="text-dark-white fw-500">
+                                                        @orderItem.TotalPrice EGP
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    }    }
+
+                                <div class="item-total">
+                                    <div class="total-price border-0 pb-0">
+                                        <span class="text-dark-white fw-600">Items subtotal:</span>
+                                        <span class="text-dark-white fw-600">@(Model?.TotalPrice - (Model?.Restaurant?.DeliveryFees ?? 0)) EGP</span>
+                                    </div>
+                                    <div class="total-price border-0 pt-0 pb-0">
+                                        <span class="text-light-green fw-600">Delivery fee:</span>
+                                        <span class="text-light-green fw-600">@Model?.Restaurant?.DeliveryFees EGP</span>
+                                    </div>
+                                    <div class="total-price border-0 ">
+                                        <span class="text-light-black fw-700">Total:</span>
+                                        <span class="text-light-black fw-700">@Model?.TotalPrice EGP</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer p-0 modify-order">
+                                
+                                <a asp-action="Details" asp-controller="Cart"
+                                   class="text-custom-white full-width fw-500 bg-light-green d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-chevron-left mr-2"></i> Modify Your Order
+                                </a>
+
+                                <a href="#" class="total-amount">
+                                    <span class="text-custom-white fw-700">TOTAL</span>
+                                    <span class="text-custom-white fw-700">@Model?.TotalPrice EGP</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://www.paypal.com/sdk/js?client-id=@ViewBag.ClientId"></script>
+<script>
+    paypal.Buttons({
+      createOrder: function(data, actions) {
+        return actions.order.create({
+          purchase_units: [{
+            amount: {
+              value: @Model?.TotalPrice
+            }
+          }]
+        });
+      },
+      onApprove: function(data, actions) {
+        return actions.order.capture().then(function(details) {
+          console.log('Payment captured:', details);
+          window.location.href = `/PayPal/Success?orderId=${data.orderID}`;
+        });
+      },
+      onError: function(err) {
+        console.error('PayPal Error:', err);
+        alert('Payment failed. Please try again.');
+      }
+    }).render('#paypal-button-container');
+</script>
