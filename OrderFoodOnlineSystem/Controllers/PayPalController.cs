@@ -24,7 +24,7 @@ namespace OrderFoodOnlineSystem.Controllers
             var isPaymentVerified = await VerifyPayment(orderId);
             if (isPaymentVerified)
             {
-                return RedirectToAction("PlaceOrder", "Order", new { deliveryMethod = PaymentMethod.PayPal });
+                return RedirectToAction("PlaceOrder", "Order", new { paymentMethod = PaymentMethod.PayPal });
             }
             else
             {

@@ -495,45 +495,8 @@
       ]
     },
     {
-      "Route": "MenuItemImages/BBQ.jpeg",
-      "AssetFile": "MenuItemImages/BBQ.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117403"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 19:22:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="
-        }
-      ]
-    },
-    {
-      "Route": "MenuItemImages/BBQ.r72ynjr6g0.jpeg",
-      "AssetFile": "MenuItemImages/BBQ.jpeg",
+      "Route": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.7lau1lzr6c.jpeg",
+      "AssetFile": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -546,7 +509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "117403"
+          "Value": "85491"
         },
         {
           "Name": "Content-Type",
@@ -554,25 +517,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\""
+          "Value": "\"5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 19:22:34 GMT"
+          "Value": "Tue, 11 Mar 2025 14:47:04 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r72ynjr6g0"
+          "Value": "7lau1lzr6c"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="
+          "Value": "sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q="
         },
         {
           "Name": "label",
-          "Value": "MenuItemImages/BBQ.jpeg"
+          "Value": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "AssetFile": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 14:47:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q="
         }
       ]
     },
@@ -8203,6 +8203,88 @@
       ]
     },
     {
+      "Route": "assets/img/Masjo.op60tf1rto.png",
+      "AssetFile": "assets/img/Masjo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:20:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "op60tf1rto"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/Masjo.png"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/Masjo.png",
+      "AssetFile": "assets/img/Masjo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:20:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/about/72x72/user-1.3vf0ra49c9.png",
       "AssetFile": "assets/img/about/72x72/user-1.png",
       "Selectors": [],
@@ -15747,6 +15829,88 @@
       ]
     },
     {
+      "Route": "assets/img/fianl logo.jpg",
+      "AssetFile": "assets/img/fianl logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:10:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/fianl logo.k7trl24ja7.jpg",
+      "AssetFile": "assets/img/fianl logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:10:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7trl24ja7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/fianl logo.jpg"
+        }
+      ]
+    },
+    {
       "Route": "assets/img/gallery/img-1.iardeett8i.jpg",
       "AssetFile": "assets/img/gallery/img-1.jpg",
       "Selectors": [],
@@ -17301,6 +17465,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logoV5-Photoroom.png",
+      "AssetFile": "assets/img/logoV5-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 12:45:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logoV5-Photoroom.z7daiey4rh.png",
+      "AssetFile": "assets/img/logoV5-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 12:45:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z7daiey4rh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/logoV5-Photoroom.png"
         }
       ]
     },

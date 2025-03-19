@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\controllers\\favouriterestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:controllers\\favouriterestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\views\\shared\\_restaurantspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:views\\shared\\_restaurantspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\viewmodels\\restaurantviewmodels\\restaurantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:viewmodels\\restaurantviewmodels\\restaurantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\views\\favouriterestaurant\\getallfavourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:views\\favouriterestaurant\\getallfavourites.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,87 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Restaurant\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Restaurant\\Details.cshtml",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Restaurant\\Details.cshtml",
-              "RelativeToolTip": "Views\\Restaurant\\Details.cshtml",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAAAMUAAABMAAAAAAAAAA==",
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\style.css",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAAHUDAAAAAAAAAAAAwIYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T02:50:50.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_RestaurantsPartial.cshtml",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Shared\\_RestaurantsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_RestaurantsPartial.cshtml",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Shared\\_RestaurantsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_RestaurantsPartial.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T23:25:40.981Z",
+              "WhenOpened": "2025-03-12T23:17:26.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RestaurantController.cs",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\RestaurantController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\RestaurantController.cs",
-              "RelativeToolTip": "Controllers\\RestaurantController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:22:49.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Models\\Restaurant.cs",
-              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Models\\Restaurant.cs",
-              "RelativeToolTip": "Models\\Restaurant.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:22:30.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestaurantViewModel.cs",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\ViewModels\\RestaurantViewModels\\RestaurantViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\RestaurantViewModels\\RestaurantViewModel.cs",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\ViewModels\\RestaurantViewModels\\RestaurantViewModel.cs",
-              "RelativeToolTip": "ViewModels\\RestaurantViewModels\\RestaurantViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:18:36.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FavouriteRestaurantController.cs",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\FavouriteRestaurantController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FavouriteRestaurantController.cs",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\FavouriteRestaurantController.cs",
-              "RelativeToolTip": "Controllers\\FavouriteRestaurantController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:17:47.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAllFavourites.cshtml",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\FavouriteRestaurant\\GetAllFavourites.cshtml",
-              "RelativeDocumentMoniker": "Views\\FavouriteRestaurant\\GetAllFavourites.cshtml",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\FavouriteRestaurant\\GetAllFavourites.cshtml",
-              "RelativeToolTip": "Views\\FavouriteRestaurant\\GetAllFavourites.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAADoAAAB+AAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Review\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Review\\Create.cshtml",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Review\\Create.cshtml",
+              "RelativeToolTip": "Views\\Review\\Create.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T23:17:27.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_NewLayout.cshtml",
-              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Shared\\_NewLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_NewLayout.cshtml",
-              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Views\\Shared\\_NewLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_NewLayout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T23:13:06.706Z"
+              "WhenOpened": "2025-03-12T23:17:13.349Z"
             }
           ]
         }
