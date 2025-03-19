@@ -114,11 +114,18 @@ namespace OrderFoodOnlineSystem.Repositories
 
             if (restaurant != null)
             {
-                var activeReviews = restaurant.Reviews.Where(r => r.IsDeleted == false).ToList();
 
                 if (restaurant.Reviews != null)
                 {
-                    restaurant.AverageRating = Math.Round(activeReviews.Average(r => r.Rating), 1);
+                    var activeReviews = restaurant.Reviews.Where(r => r.IsDeleted == false).ToList();
+                    if (activeReviews.Any())
+                    {
+                        restaurant.AverageRating = Math.Round(activeReviews.Average(r => r.Rating), 1);
+                    }
+                    else
+                    {
+                        restaurant.AverageRating = 0;
+                    }
                 }
                 else
                 {

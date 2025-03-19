@@ -29,8 +29,8 @@
       "PackagePath": "staticwebassets\\CategoryImages\\shop-37.jpg"
     },
     {
-      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\BBQ.jpeg",
-      "PackagePath": "staticwebassets\\MenuItemImages\\BBQ.jpeg"
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"
     },
     {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Bacon Burger.jpeg",
@@ -401,6 +401,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\M.png"
     },
     {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Masjo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Masjo.png"
+    },
+    {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\72x72\\user-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\about\\72x72\\user-1.png"
     },
@@ -769,6 +773,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\facebook-logo.svg"
     },
     {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\fianl logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fianl logo.jpg"
+    },
+    {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-1.jpg"
     },
@@ -843,6 +851,10 @@
     {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logoV5-Photoroom.png"
     },
     {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\mastercard.png",

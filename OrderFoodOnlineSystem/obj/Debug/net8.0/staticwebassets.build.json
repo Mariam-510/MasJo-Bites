@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4LrZ0xx9VsizFhOzFBDpv5p/EB2K1PCTWWfbOBO0EEo=",
+  "Hash": "OtSHvrJ4ho+HCeb/keI32j5wctXmmyjCZnr3i7Dis44=",
   "Source": "OrderFoodOnlineSystem",
   "BasePath": "_content/OrderFoodOnlineSystem",
   "Mode": "Default",
@@ -3230,6 +3230,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\facebook-logo.svg"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\fianl logo.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/fianl logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k7trl24ja7",
+      "Integrity": "oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\fianl logo.jpg"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-1.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -3629,6 +3650,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-7.jpg"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/logoV5-Photoroom#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z7daiey4rh",
+      "Integrity": "b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logoV5-Photoroom.png"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\M.png",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -3648,6 +3690,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\M.png"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Masjo.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/Masjo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "op60tf1rto",
+      "Integrity": "/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Masjo.png"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\mastercard.png",
@@ -8354,6 +8417,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7lau1lzr6c",
+      "Integrity": "5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Bacon Burger.jpeg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -8373,27 +8457,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MenuItemImages\\Bacon Burger.jpeg"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\BBQ.jpeg",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "MenuItemImages/BBQ#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "r72ynjr6g0",
-      "Integrity": "Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\MenuItemImages\\BBQ.jpeg"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\California Roll.jpeg",
@@ -21431,6 +21494,88 @@
       ]
     },
     {
+      "Route": "assets/img/fianl logo.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\fianl logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:10:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/fianl logo.k7trl24ja7.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\fianl logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 22:10:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k7trl24ja7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/fianl logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oEkE8+y9/RlS3tDOvmyqDplp+JRm6nqH5fnZx7PxIks="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/gallery/img-1.iardeett8i.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-1.jpg",
       "Selectors": [],
@@ -22989,6 +23134,88 @@
       ]
     },
     {
+      "Route": "assets/img/logoV5-Photoroom.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 12:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logoV5-Photoroom.z7daiey4rh.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "212037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 12:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z7daiey4rh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/logoV5-Photoroom.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8vh/L/rH1Z+TUALXRGsgOqXKB+v+dNAQAw4yTwjQvY="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/M.png",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\M.png",
       "Selectors": [],
@@ -23067,6 +23294,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-HH/0IPup8PrmHMeXeQ0qkvaBpnC8lbtQhgp5hGNvuMI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/Masjo.op60tf1rto.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Masjo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "op60tf1rto"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/Masjo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/Masjo.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Masjo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 21:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/MrDkFPEk7hAsSm+OjtMSRaWCZV+ARHiJg+jzTVv9iU="
         }
       ]
     },
@@ -41439,6 +41748,88 @@
       ]
     },
     {
+      "Route": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.7lau1lzr6c.jpeg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 14:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lau1lzr6c"
+        },
+        {
+          "Name": "label",
+          "Value": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q="
+        }
+      ]
+    },
+    {
+      "Route": "MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 14:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA+gnhW0bjcnb8m7Q="
+        }
+      ]
+    },
+    {
       "Route": "MenuItemImages/Bacon Burger.jpeg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Bacon Burger.jpeg",
       "Selectors": [],
@@ -41517,88 +41908,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-Lm8F2y/sWd6WWKEBw2iogI1BGNZs4Xl3NmXqsqwUHhI="
-        }
-      ]
-    },
-    {
-      "Route": "MenuItemImages/BBQ.jpeg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\BBQ.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117403"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 19:22:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="
-        }
-      ]
-    },
-    {
-      "Route": "MenuItemImages/BBQ.r72ynjr6g0.jpeg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\BBQ.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117403"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 19:22:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "r72ynjr6g0"
-        },
-        {
-          "Name": "label",
-          "Value": "MenuItemImages/BBQ.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="
         }
       ]
     },

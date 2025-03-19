@@ -149,6 +149,7 @@ wwwroot\assets\img\dish\150x151\dish-7.jpg
 wwwroot\assets\img\dish\150x151\dish-8.jpg
 wwwroot\assets\img\dish\150x151\dish-9.jpg
 wwwroot\assets\img\facebook-logo.svg
+wwwroot\assets\img\fianl logo.jpg
 wwwroot\assets\img\gallery\img-1.jpg
 wwwroot\assets\img\gallery\img-2.jpg
 wwwroot\assets\img\gallery\img-3.jpg
@@ -168,7 +169,9 @@ wwwroot\assets\img\logo-4.jpg
 wwwroot\assets\img\logo-5.jpg
 wwwroot\assets\img\logo-6.jpg
 wwwroot\assets\img\logo-7.jpg
+wwwroot\assets\img\logoV5-Photoroom.png
 wwwroot\assets\img\M.png
+wwwroot\assets\img\Masjo.png
 wwwroot\assets\img\mastercard.png
 wwwroot\assets\img\nav-1.jpg
 wwwroot\assets\img\offer.jpg
@@ -393,8 +396,8 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\MenuItemImages\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg
 wwwroot\MenuItemImages\Bacon Burger.jpeg
-wwwroot\MenuItemImages\BBQ.jpeg
 wwwroot\MenuItemImages\California Roll.jpeg
 wwwroot\MenuItemImages\Carrot Cake.jpeg
 wwwroot\MenuItemImages\Cheesecake.jpeg

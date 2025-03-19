@@ -10,7 +10,6 @@ namespace OrderFoodOnlineSystem.ViewModels.RestaurantManagerViewModels
         [MaxLength(50)]
         [MinLength(1)]
         [RegularExpression("^[a-zA-Z\\s]+$", ErrorMessage = "Name must contain only letters.")]
-        [Display(Name = "Admin Name")]
         public string Name { get; set; }
 
         [Required]

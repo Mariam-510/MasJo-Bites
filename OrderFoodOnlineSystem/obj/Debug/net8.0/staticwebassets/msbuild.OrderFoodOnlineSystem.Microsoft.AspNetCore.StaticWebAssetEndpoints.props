@@ -1812,6 +1812,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GGZKJJ5pG3OlIIoZMX303K2n1TaN\u002BaEwWuoVMZ2hyG0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1374"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022GGZKJJ5pG3OlIIoZMX303K2n1TaN\u002BaEwWuoVMZ2hyG0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2019 16:24:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/fianl logo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\fianl logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oEkE8\u002By9/RlS3tDOvmyqDplp\u002BJRm6nqH5fnZx7PxIks="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"215430"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oEkE8\u002By9/RlS3tDOvmyqDplp\u002BJRm6nqH5fnZx7PxIks=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:10:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/fianl logo.k7trl24ja7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\fianl logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k7trl24ja7"},{"Name":"integrity","Value":"sha256-oEkE8\u002By9/RlS3tDOvmyqDplp\u002BJRm6nqH5fnZx7PxIks="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/assets/img/fianl logo.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"215430"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oEkE8\u002By9/RlS3tDOvmyqDplp\u002BJRm6nqH5fnZx7PxIks=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:10:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/gallery/img-1.iardeett8i.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\gallery\img-1.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2040,6 +2052,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1868"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2019 16:24:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/logoV5-Photoroom.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\logoV5-Photoroom.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-b8vh/L/rH1Z\u002BTUALXRGsgOqXKB\u002Bv\u002BdNAQAw4yTwjQvY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"212037"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022b8vh/L/rH1Z\u002BTUALXRGsgOqXKB\u002Bv\u002BdNAQAw4yTwjQvY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 12:45:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/logoV5-Photoroom.z7daiey4rh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\logoV5-Photoroom.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z7daiey4rh"},{"Name":"integrity","Value":"sha256-b8vh/L/rH1Z\u002BTUALXRGsgOqXKB\u002Bv\u002BdNAQAw4yTwjQvY="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/assets/img/logoV5-Photoroom.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"212037"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022b8vh/L/rH1Z\u002BTUALXRGsgOqXKB\u002Bv\u002BdNAQAw4yTwjQvY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 12:45:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/M.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\M.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2051,6 +2075,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w9c3821brg"},{"Name":"integrity","Value":"sha256-HH/0IPup8PrmHMeXeQ0qkvaBpnC8lbtQhgp5hGNvuMI="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/assets/img/M.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"291"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HH/0IPup8PrmHMeXeQ0qkvaBpnC8lbtQhgp5hGNvuMI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2019 16:24:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/Masjo.op60tf1rto.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\Masjo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"op60tf1rto"},{"Name":"integrity","Value":"sha256-/MrDkFPEk7hAsSm\u002BOjtMSRaWCZV\u002BARHiJg\u002BjzTVv9iU="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/assets/img/Masjo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"203791"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/MrDkFPEk7hAsSm\u002BOjtMSRaWCZV\u002BARHiJg\u002BjzTVv9iU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 21:20:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/Masjo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\Masjo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/MrDkFPEk7hAsSm\u002BOjtMSRaWCZV\u002BARHiJg\u002BjzTVv9iU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"203791"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/MrDkFPEk7hAsSm\u002BOjtMSRaWCZV\u002BARHiJg\u002BjzTVv9iU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 21:20:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/assets/img/mastercard.honh2bupdm.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\mastercard.png'))</AssetFile>
@@ -4740,6 +4776,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 17:55:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.7lau1lzr6c.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7lau1lzr6c"},{"Name":"integrity","Value":"sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA\u002BgnhW0bjcnb8m7Q="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"85491"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225WkbepCcqHLPrHnxy1Bx/S5beVoA\u002BgnhW0bjcnb8m7Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 14:47:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5WkbepCcqHLPrHnxy1Bx/S5beVoA\u002BgnhW0bjcnb8m7Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"85491"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225WkbepCcqHLPrHnxy1Bx/S5beVoA\u002BgnhW0bjcnb8m7Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 14:47:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/Bacon Burger.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\Bacon Burger.jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -4751,18 +4799,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y8pwt3ys13"},{"Name":"integrity","Value":"sha256-Lm8F2y/sWd6WWKEBw2iogI1BGNZs4Xl3NmXqsqwUHhI="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/MenuItemImages/Bacon Burger.jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76708"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Lm8F2y/sWd6WWKEBw2iogI1BGNZs4Xl3NmXqsqwUHhI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 19:32:12 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/BBQ.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\BBQ.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117403"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 19:22:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/BBQ.r72ynjr6g0.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\BBQ.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r72ynjr6g0"},{"Name":"integrity","Value":"sha256-Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4="},{"Name":"label","Value":"_content/OrderFoodOnlineSystem/MenuItemImages/BBQ.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117403"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Se3DCk6arGbqJ42GNIe4TZ3ltfkmoEvpMvk7qFxLxL4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 03 Mar 2025 19:22:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/OrderFoodOnlineSystem/MenuItemImages/California Roll.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MenuItemImages\California Roll.jpeg'))</AssetFile>

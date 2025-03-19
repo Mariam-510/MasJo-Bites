@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using OrderFoodOnlineSystem.Data;
 
@@ -11,9 +12,11 @@ using OrderFoodOnlineSystem.Data;
 namespace OrderFoodOnlineSystem.Migrations
 {
     [DbContext(typeof(OrderFoodDbContext))]
-    partial class OrderFoodDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250311012750_updateData")]
+    partial class updateData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1216,8 +1219,8 @@ namespace OrderFoodOnlineSystem.Migrations
                         {
                             Id = 1,
                             AverageRating = 0.0,
-                            DateColse = new TimeOnly(6, 0, 0),
-                            DateOpen = new TimeOnly(11, 0, 0),
+                            DateColse = new TimeOnly(23, 0, 0),
+                            DateOpen = new TimeOnly(9, 0, 0),
                             DeliveryFees = 40m,
                             Description = "A stylish and modern restaurant serving delicious pizza, pasta, and grilled meals in a cozy ambiance.",
                             ImageUrl = "RestaurantImages/Tasty bites.PNG",
@@ -1229,8 +1232,8 @@ namespace OrderFoodOnlineSystem.Migrations
                         {
                             Id = 2,
                             AverageRating = 0.0,
-                            DateColse = new TimeOnly(7, 0, 0),
-                            DateOpen = new TimeOnly(13, 0, 0),
+                            DateColse = new TimeOnly(22, 0, 0),
+                            DateOpen = new TimeOnly(10, 0, 0),
                             DeliveryFees = 50m,
                             Description = "A popular Egyptian burger chain known for its real beef burgers and bold flavors.",
                             ImageUrl = "RestaurantImages/Burger King.jpeg",
@@ -1242,8 +1245,8 @@ namespace OrderFoodOnlineSystem.Migrations
                         {
                             Id = 3,
                             AverageRating = 0.0,
-                            DateColse = new TimeOnly(23, 0, 0),
-                            DateOpen = new TimeOnly(13, 0, 0),
+                            DateColse = new TimeOnly(20, 0, 0),
+                            DateOpen = new TimeOnly(8, 0, 0),
                             DeliveryFees = 35m,
                             Description = "Ginger offers authentic Japanese cuisine and fresh sushi in a stylish setting.",
                             ImageUrl = "RestaurantImages/Ginger.JPG",
@@ -1281,8 +1284,8 @@ namespace OrderFoodOnlineSystem.Migrations
                         {
                             Id = 6,
                             AverageRating = 0.0,
-                            DateColse = new TimeOnly(23, 0, 0),
-                            DateOpen = new TimeOnly(10, 0, 0),
+                            DateColse = new TimeOnly(21, 0, 0),
+                            DateOpen = new TimeOnly(9, 0, 0),
                             DeliveryFees = 25m,
                             Description = "A cozy spot serving irresistible desserts and sweet treats.",
                             ImageUrl = "RestaurantImages/Sweet Delight.PNG",

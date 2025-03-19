@@ -121,7 +121,7 @@ namespace OrderFoodOnlineSystem.Controllers
                 var review = await _reviewRepository.DeleteAsync(id);
                     if(review == null)
                         return NotFound();
-                    return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
             catch
             {
