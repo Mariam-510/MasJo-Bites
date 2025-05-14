@@ -1,0 +1,329 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrderFoodOnlineSystem
+build_property.RootNamespace = OrderFoodOnlineSystem
+build_property.ProjectDir = E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\OrderFoodOnlineSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\OrderFoodOnlineSystem
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/ResendConfirmationEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNlbmRDb25maXJtYXRpb25FbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Address/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Address/CreateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xDcmVhdGVBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Address/EditAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xFZGl0QWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Address/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Address/IndexAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xJbmRleEFkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Cart/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/FavouriteRestaurant/GetAllFavourites.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3VyaXRlUmVzdGF1cmFudFxHZXRBbGxGYXZvdXJpdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/MenuItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/MenuItem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/MenuItem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/MenuItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Order/DetailsRestaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlsc1Jlc3RhdXJhbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Order/GetAllCustomerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsQ3VzdG9tZXJPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Order/GetAllRestaurantOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsUmVzdGF1cmFudE9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/PayPal/Failure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5UGFsXEZhaWx1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/PayPal/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5UGFsXFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantCategory/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudENhdGVnb3J5XEFkZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantCategory/GetAllCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudENhdGVnb3J5XEdldEFsbENhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantCategory/GetAllRestaurants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudENhdGVnb3J5XEdldEFsbFJlc3RhdXJhbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantManager/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudE1hbmFnZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantManager/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudE1hbmFnZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantManager/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudE1hbmFnZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantManager/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudE1hbmFnZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/RestaurantManager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudE1hbmFnZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Restaurant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Review/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Review/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Review/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/Components/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_AccountLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_AccountSignLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50U2lnbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_NewLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OZXdMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_OrderDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlckRldGFpbHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_RestaurantManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN0YXVyYW50TWFuYWdlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_RestaurantsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN0YXVyYW50c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_RestaurentSliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN0YXVyZW50U2xpZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_RestaurentSliderSmallPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN0YXVyZW50U2xpZGVyU21hbGxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_SliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbGlkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_ToggleScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub2dnbGVTY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Intern & Courses/iTi 4-Months/Backend/6-MVC/Project/OrderFoodOnlineSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-la980zpi1o

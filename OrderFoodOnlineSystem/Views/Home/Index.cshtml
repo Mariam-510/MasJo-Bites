@@ -1,0 +1,245 @@
+﻿@model IEnumerable<OrderFoodOnlineSystem.Models.Category>
+
+@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+    List<RestaurantViewModel> restaurantVMs = ViewBag.restaurantVMs;
+    List<FavouriteRestaurant>? favoriteRestaurants = ViewBag.favoriteRestaurants;
+}
+
+
+
+
+<div class="main-sec"></div>
+<!-- Navigation -->
+<!-- slider -->
+<section class="about-us-slider swiper-container p-relative">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide slide-item">
+            <img src="~/assets/img/about/blog/1920x700/banner-1.jpg" class="img-fluid full-width" alt="Banner">
+            <div class="transform-center">
+                <div class="container">
+                    <div class="row justify-content-start">
+                        <div class="col-lg-7 align-self-center">
+                            <div class="right-side-content">
+                                <h1 class="text-custom-white fw-600">Increase takeout sales by 50%</h1>
+                                <h3 class="text-custom-white fw-400">with the largest delivery platform in Egypt</h3>
+                                <a asp-action="GetAll" asp-controller="Restaurant" class="btn-second btn-submit">Learn More.</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay overlay-bg"></div>
+        </div>
+        <div class="swiper-slide slide-item">
+            <img src="~/assets/img/about/blog/1920x700/banner-2.jpg" class="img-fluid full-width" alt="Banner">
+            <div class="transform-center">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8 align-self-center">
+                            <div class="right-side-content text-center">
+                                <h1 class="text-custom-white fw-600">Increase takeout sales by 50%</h1>
+                                <h3 class="text-custom-white fw-400">with the largest delivery platform in Egypt</h3>
+                                <a asp-action="GetAll" asp-controller="Restaurant" class="btn-second btn-submit">Learn More.</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay overlay-bg"></div>
+        </div>
+        <div class="swiper-slide slide-item">
+            <img src="~/assets/img/about/blog/1920x700/banner-3.jpg" class="img-fluid full-width" alt="Banner">
+            <div class="transform-center">
+                <div class="container">
+                    <div class="row justify-content-end">
+                        <div class="col-lg-7 align-self-center">
+                            <div class="right-side-content text-right">
+                                <h1 class="text-custom-white fw-600">Increase takeout sales by 50%</h1>
+                                <h3 class="text-custom-white fw-400">with the largest delivery platform in Egypt</h3>
+                                <a asp-action="GetAll" asp-controller="Restaurant" class="btn-second btn-submit">Learn More.</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay overlay-bg"></div>
+        </div>
+    </div>
+    <!-- Add Arrows -->
+
+</section>
+<!-- slider -->
+<!-- Browse by category -->
+<section class="browse-cat u-line section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-header-left">
+                    <h3 class="text-light-black header-title title">Browse by category 
+                        <span class="fs-14">
+                            <a asp-action="GetAll" asp-controller="Restaurant" class="fs-6">See all restaurant</a>
+                        </span></h3>
+
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="category-slider swiper-container">
+                    <div class="swiper-wrapper">
+                        @* Categories *@
+                        @foreach (var item in Model)
+                        {
+
+                            <div class="swiper-slide">
+                                <a asp-action="GetAllRestaurants" asp-controller="RestaurantCategory" asp-route-id="@item.Id" class="categories">
+                                    <div class="icon text-custom-white bg-light-green ">
+                                        <img src="~/@item.ImageUrl" class="rounded-circle" alt="categories">
+                                    </div> <span class="text-light-black cat-name">@item.Name </span>
+                                </a>
+                            </div>
+                        }
+
+
+
+                    </div>
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Explore collection -->
+<section class="ex-collection section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-header-left">
+                    <h3 class="text-light-black header-title title">Explore our collections</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="ex-collection-box mb-xl-20">
+                    <img src="~/assets/img/restaurants/540x300/collection-1.jpg" class="img-fluid full-width" alt="image">
+                    <div class="category-type overlay padding-15">
+                        <a asp-action="GetAll" asp-controller="Restaurant" class="category-btn">Top rated</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="ex-collection-box mb-xl-20">
+                    <img src="~/assets/img/restaurants/540x300/collection-2.jpg" class="img-fluid full-width" alt="image">
+                    <div class="category-type overlay padding-15">
+                        <a asp-action="GetAll" asp-controller="Restaurant" class="category-btn">Top rated</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-4">
+                <div class="large-product-box mb-xl-20 p-relative">
+                    <img src="~/assets/img/restaurants/255x587/Banner-1.jpg" class="img-fluid full-width" alt="image">
+
+                    <div class="category-type overlay padding-15">
+                        <button class="category-btn">Most popular near you</button>
+                        <a asp-action="GetAll" asp-controller="Restaurant" class="btn-first white-btn text-light-black fw-600 full-width">See all</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-9 col-md-8">
+                <div class="row">
+                    @* RestaurantVMs *@
+                    @foreach (var item in restaurantVMs)
+                    {
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="product-box mb-xl-20">
+                                <div class="product-img">
+                                    <a asp-action="Details" asp-controller="Restaurant" asp-route-id="@item.Id">
+                                        <img src="~/@item.ImageUrl" class="img-fluid full-width" alt="product-img" style="max-height:35vh;min-height:35vh">
+                                    </a>
+
+                                </div>
+
+
+                                    <div class="product-caption">
+
+                                        <div class="title-box d-flex align-items-center justify-content-between">
+                                            <h6 class="product-title">@item.Name</h6>
+                                            <div class="d-flex align-items-center">
+                                                @{
+                                                    int cusId = 0;
+                                                    int.TryParse(User.FindFirst("UserId")?.Value, out cusId);
+                                                    var classFav = favoriteRestaurants != null && favoriteRestaurants.Any(f => f.RestaurantId == item.Id) ? "favorite" : "not-favorite";
+                                                    var classFavFlag = classFav == "favorite" ? "true" : "false";
+                                                }
+
+                                                <button class="@classFav toggle-favorite me-2" data-favorite="@classFavFlag"
+                                                        data-id="123" aria-label="Remove from favorites"
+                                                        data-restaurant-id="@item.Id" data-customer-id="@cusId"></button>
+
+                                                <span class="text-custom-white rectangle-tag bg-yellow">
+                                                    @item.AverageRating
+                                                </span>
+                                            </div>
+                                        </div>
+
+                                        <div class="product-details">
+                                            <div class="price-time">
+                                                <span class="text-light-white">
+                                                    Serving time
+                                                </span>
+                                                <span class="text-light-black time">@item.DateOpen-@item.DateColse</span>
+                                            </div>
+                                            <div class="product-list-rating">
+                                                <span>
+                                                    @for (int i = 1; i <= 5; i++)
+                                                    {
+                                                        if (i <= Math.Floor(item.AverageRating)) // Full star
+                                                        {
+                                                            <i class="fas fa-star text-yellow"></i>
+                                                        }
+                                                        else if (i == Math.Ceiling(item.AverageRating) && item.AverageRating % 1 != 0) // Half star
+                                                        {
+                                                            <i class="fas fa-star-half-alt text-yellow"></i>
+                                                        }
+                                                        else // Empty star
+                                                        {
+                                                            <i class="far fa-star text-light-green"></i>
+                                                        }
+                                                    }
+                                                </span>
+                                                <span class="text-light-white text-right">@item.NumOfReviews ratings</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+                </div>
+            </div>
+            <!-- advertisement banner-->
+            <div class="row">
+                <div class="col-12">
+                    <div class="banner-adv2 mb-xl-20">
+                        <img src="~/assets/img/restaurants/1110x100/vbanner-2.jpg" class="img-fluid full-width" alt="banner"> <span class="text">
+                            Unlimited Products.
+                        </span>
+                        <span class="close-banner"></span>
+                        <div class="overlay overlay-bg"></div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </section>
+
+
+<partial name="_ToggleScriptsPartial"></partial>
