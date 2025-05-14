@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\controllers\\favouriterestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:controllers\\favouriterestaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\6-mvc\\project\\orderfoodonlinesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64626A30-D816-49D6-A0F9-BF5FFCB1893C}|OrderFoodOnlineSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:57:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAiwDQCAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:41:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavouriteRestaurantController.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\FavouriteRestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavouriteRestaurantController.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\Controllers\\FavouriteRestaurantController.cs",
+              "RelativeToolTip": "Controllers\\FavouriteRestaurantController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:37:02.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
