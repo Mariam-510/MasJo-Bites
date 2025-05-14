@@ -11,5 +11,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>OrderFoodOnlineSystem.Data.OrderFoodDbContext</WebStackScaffolding_DbContextTypeFullName>
+    <NameOfLastUsedPublishProfile>E:\Intern &amp; Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnlineSystem\Properties\PublishProfiles\site25803-WebDeploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

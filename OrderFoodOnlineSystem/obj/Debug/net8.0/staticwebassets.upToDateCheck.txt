@@ -97,7 +97,6 @@ wwwroot\assets\img\blog-details\40x40\user-4.png
 wwwroot\assets\img\blog-details\822x337\image-1.jpg
 wwwroot\assets\img\card-back.jpg
 wwwroot\assets\img\card-front.jpg
-wwwroot\assets\img\Category.rar
 wwwroot\assets\img\Category\burger-1.jpg
 wwwroot\assets\img\Category\burger-2.jpg
 wwwroot\assets\img\Category\burgers.jpg
@@ -158,7 +157,6 @@ wwwroot\assets\img\gallery\img-5.jpg
 wwwroot\assets\img\gallery\img-6.jpg
 wwwroot\assets\img\gift-box.png
 wwwroot\assets\img\google-logo.png
-wwwroot\assets\img\icons.rar
 wwwroot\assets\img\icons\account-3.png
 wwwroot\assets\img\icons\home2.png
 wwwroot\assets\img\log2.JPG

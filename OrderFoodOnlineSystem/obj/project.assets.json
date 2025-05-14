@@ -8179,11 +8179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\OrderFoodOnlineSystem.csproj",
+      "projectUniqueName": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\OrderFoodOnlineSystem.csproj",
       "projectName": "OrderFoodOnlineSystem",
-      "projectPath": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\OrderFoodOnlineSystem.csproj",
+      "projectPath": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\OrderFoodOnlineSystem.csproj",
       "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\OrderFoodOnlineSystem\\obj\\",
+      "outputPath": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Installed Programs\\Microsoft\\Shared\\NuGetPackages"

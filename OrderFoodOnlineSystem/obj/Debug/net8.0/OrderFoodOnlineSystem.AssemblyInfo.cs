@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderFoodOnlineSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83926ae7a9b00125babbc4756949e1935da180c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderFoodOnlineSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderFoodOnlineSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
