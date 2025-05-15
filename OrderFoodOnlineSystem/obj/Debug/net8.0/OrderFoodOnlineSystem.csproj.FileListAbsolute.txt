@@ -600,4 +600,3 @@ E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnli
 E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnlineSystem\obj\Debug\net8.0\OrderFoodOnlineSystem.pdb
 E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnlineSystem\obj\Debug\net8.0\OrderFoodOnlineSystem.genruntimeconfig.cache
 E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnlineSystem\obj\Debug\net8.0\ref\OrderFoodOnlineSystem.dll
-E:\Intern & Courses\iTi 4-Months\Backend\6-MVC\Project\MasJo-Bites\OrderFoodOnlineSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

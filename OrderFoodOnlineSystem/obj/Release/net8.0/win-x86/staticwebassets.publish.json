@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J3g6GrTEKWAfVlv54uHW1UgK7n0Uxdduax7p3VI4J5I=",
+  "Hash": "OgC4QXxGNAP4B5DL7eqI8SJFEEM51qXrB9tQR8PgqJ4=",
   "Source": "OrderFoodOnlineSystem",
   "BasePath": "_content/OrderFoodOnlineSystem",
   "Mode": "Default",
@@ -2138,27 +2138,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\card-front.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category.rar",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/Category#[.{fingerprint}]?.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pgp4m4bsv1",
-      "Integrity": "F5C2PwlamWCAiU2UP7RNOSLWe21FvMk31sEsy9NETco=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Category.rar"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burger-1.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -3417,27 +3396,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\google-logo.png"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons.rar",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/icons#[.{fingerprint}]?.rar",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pb1oruvt3d",
-      "Integrity": "S4Dk4bV7ReTMgqlKh3rHdj6osmfczY4PRIAGxks4sDg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\icons.rar"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons\\account-3.png",
@@ -17230,88 +17188,6 @@
       ]
     },
     {
-      "Route": "assets/img/Category.pgp4m4bsv1.rar",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category.rar",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "63398730"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F5C2PwlamWCAiU2UP7RNOSLWe21FvMk31sEsy9NETco=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 22:37:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pgp4m4bsv1"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Category.rar"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-F5C2PwlamWCAiU2UP7RNOSLWe21FvMk31sEsy9NETco="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Category.rar",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category.rar",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "63398730"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F5C2PwlamWCAiU2UP7RNOSLWe21FvMk31sEsy9NETco=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 22:37:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-F5C2PwlamWCAiU2UP7RNOSLWe21FvMk31sEsy9NETco="
-        }
-      ]
-    },
-    {
       "Route": "assets/img/Category/burger-1.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burger-1.jpg",
       "Selectors": [],
@@ -22228,88 +22104,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-3rhMML7p9vMXyPnruqIfHTP9+Y1GC07o4BZ9OZDfUd4="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/icons.pb1oruvt3d.rar",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons.rar",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1017"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S4Dk4bV7ReTMgqlKh3rHdj6osmfczY4PRIAGxks4sDg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:17:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pb1oruvt3d"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/icons.rar"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-S4Dk4bV7ReTMgqlKh3rHdj6osmfczY4PRIAGxks4sDg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/icons.rar",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons.rar",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1017"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S4Dk4bV7ReTMgqlKh3rHdj6osmfczY4PRIAGxks4sDg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:17:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-S4Dk4bV7ReTMgqlKh3rHdj6osmfczY4PRIAGxks4sDg="
         }
       ]
     },

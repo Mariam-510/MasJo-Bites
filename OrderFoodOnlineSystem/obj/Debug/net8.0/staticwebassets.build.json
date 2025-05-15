@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eoBGoH0L+hOaB2Jl+U5lfZBq8cgY3QG24OMWPLZkyDY=",
+  "Hash": "/hPIhfCxYul3dSEtVWXRT2nKglsi92QPpcYEe7KcKxY=",
   "Source": "OrderFoodOnlineSystem",
   "BasePath": "_content/OrderFoodOnlineSystem",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/css/font-awesome#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrc58rvjcm",
+      "Integrity": "5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\flaticon.css",
@@ -225,27 +246,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\font\\Flaticond41d.eot"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/css/font-awesome#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qrc58rvjcm",
-      "Integrity": "5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
@@ -1130,6 +1130,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\arrow-3.svg"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/banner-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nt7ioaftev",
+      "Integrity": "G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-2.jpg"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -1277,27 +1298,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/banner/banner20#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cbqmpn2ie6",
-      "Integrity": "SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\banner20.jpg"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -1403,6 +1403,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\banner-9.jpg"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/banner/banner20#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cbqmpn2ie6",
+      "Integrity": "SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\banner20.jpg"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\burger.png",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -1466,12 +1487,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner\\hd2.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/banner-2#[.{fingerprint}]?.jpg",
+      "RelativePath": "assets/img/blog-details/40x40/user-1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1480,11 +1501,95 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nt7ioaftev",
-      "Integrity": "G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=",
+      "Fingerprint": "wj7ckmzie5",
+      "Integrity": "xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\banner-2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/blog-details/40x40/user-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uc9rcuq79q",
+      "Integrity": "HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/blog-details/40x40/user-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gtm7mg8jhl",
+      "Integrity": "vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/blog-details/40x40/user-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z6mvipsdrn",
+      "Integrity": "5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/blog-details/822x337/image-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "10sfrdopzw",
+      "Integrity": "gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-1.jpg",
@@ -1991,111 +2096,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\optin-1.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/blog-details/40x40/user-1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wj7ckmzie5",
-      "Integrity": "xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/blog-details/40x40/user-2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "uc9rcuq79q",
-      "Integrity": "HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/blog-details/40x40/user-3#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gtm7mg8jhl",
-      "Integrity": "vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/blog-details/40x40/user-4#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "z6mvipsdrn",
-      "Integrity": "5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/blog-details/822x337/image-1#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "10sfrdopzw",
-      "Integrity": "gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\card-back.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -2180,27 +2180,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Category\\burger-2.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/Category/burgers#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "43uhe5bf4g",
-      "Integrity": "kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Category\\burgers.jpg"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers-1.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -2220,6 +2199,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Category\\burgers-1.jpg"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/Category/burgers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43uhe5bf4g",
+      "Integrity": "kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Category\\burgers.jpg"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\dessert-3.jpg",
@@ -3461,27 +3461,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\log2.JPG"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/logo#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "h14ab0kgov",
-      "Integrity": "C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-2.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -3606,6 +3585,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-7.jpg"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h14ab0kgov",
+      "Integrity": "C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
@@ -6548,12 +6548,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\tag.jpg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/user/user#[.{fingerprint}]?.jpeg",
+      "RelativePath": "assets/img/user-1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6562,11 +6562,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ggywtv2sxz",
-      "Integrity": "kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=",
+      "Fingerprint": "9t2fs953pn",
+      "Integrity": "A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user.jpeg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\user-1.png"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user-1.png",
@@ -6653,6 +6653,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user-4.png"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "assets/img/user/user#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ggywtv2sxz",
+      "Integrity": "kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user.jpeg"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user50-50.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -6672,27 +6693,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user50-50.jpg"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "assets/img/user-1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9t2fs953pn",
-      "Integrity": "A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\user-1.png"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\video-banner.jpg",
@@ -7176,174 +7176,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -7850,6 +7682,174 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpyigms19s",
+      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73kdqttayv",
+      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve6x09088i",
+      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gxs3k148c",
+      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9b9oa1qrmt",
+      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fctod5rc9n",
+      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -8123,12 +8123,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8137,19 +8137,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8158,19 +8158,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8179,32 +8179,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -8312,12 +8291,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8326,19 +8305,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8347,19 +8326,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
       "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8368,11 +8347,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
@@ -8879,27 +8879,6 @@
       "OriginalItemSpec": "wwwroot\\MenuItemImages\\Tiramisu.jpeg"
     },
     {
-      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
-      "SourceId": "OrderFoodOnlineSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
-      "BasePath": "_content/OrderFoodOnlineSystem",
-      "RelativePath": "MenuItemImages/v7#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "r3p05w13f5",
-      "Integrity": "6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\MenuItemImages\\v7.jpg"
-    },
-    {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7_2.jpg",
       "SourceId": "OrderFoodOnlineSystem",
       "SourceType": "Discovered",
@@ -8919,6 +8898,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\MenuItemImages\\v7_2.jpg"
+    },
+    {
+      "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
+      "SourceId": "OrderFoodOnlineSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\",
+      "BasePath": "_content/OrderFoodOnlineSystem",
+      "RelativePath": "MenuItemImages/v7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r3p05w13f5",
+      "Integrity": "6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MenuItemImages\\v7.jpg"
     },
     {
       "Identity": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Veggie Supreme.jpeg",
@@ -9148,6 +9148,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZDcvhpfaz6X+8Wp7cmax98Bf6ASbqgBcV9HIstIzQEE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/font-awesome.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/font-awesome.qrc58rvjcm.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrc58rvjcm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/font-awesome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo="
         }
       ]
     },
@@ -9722,88 +9804,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-SlEZZYNpMBFTqVK2tSAMjvHjf4INNeEOFpU8PUQgN6Q="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/font-awesome.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70488"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/font-awesome.qrc58rvjcm.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70488"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qrc58rvjcm"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/font-awesome.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5tMlyd0lu1l5J8fugif4IJPxd5lYWsquVMqp62eTsAo="
         }
       ]
     },
@@ -13252,6 +13252,88 @@
       ]
     },
     {
+      "Route": "assets/img/banner-2.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/banner-2.nt7ioaftev.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nt7ioaftev"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/banner-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/banner.gddf443m8m.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner.jpg",
       "Selectors": [],
@@ -13826,88 +13908,6 @@
       ]
     },
     {
-      "Route": "assets/img/banner/banner20.cbqmpn2ie6.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "194183"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 09:56:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cbqmpn2ie6"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/banner/banner20.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/banner/banner20.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "194183"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 09:56:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0="
-        }
-      ]
-    },
-    {
       "Route": "assets/img/banner/banner-3.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
       "Selectors": [],
@@ -14318,6 +14318,88 @@
       ]
     },
     {
+      "Route": "assets/img/banner/banner20.cbqmpn2ie6.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 09:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbqmpn2ie6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/banner/banner20.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/banner/banner20.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 09:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SLwFxWW8A0HlGe+c+mscWUeHD0k5mQNFDJ46knj38K0="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/banner/burger.png",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\burger.png",
       "Selectors": [],
@@ -14564,8 +14646,8 @@
       ]
     },
     {
-      "Route": "assets/img/banner-2.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "Route": "assets/img/blog-details/40x40/user-1.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14574,19 +14656,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38050"
+          "Value": "4494"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=\""
+          "Value": "\"xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14596,13 +14678,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo="
+          "Value": "sha256-xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8="
         }
       ]
     },
     {
-      "Route": "assets/img/banner-2.nt7ioaftev.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "Route": "assets/img/blog-details/40x40/user-1.wj7ckmzie5.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14611,19 +14693,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "38050"
+          "Value": "4494"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo=\""
+          "Value": "\"xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14633,15 +14715,343 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nt7ioaftev"
+          "Value": "wj7ckmzie5"
         },
         {
           "Name": "label",
-          "Value": "assets/img/banner-2.jpg"
+          "Value": "assets/img/blog-details/40x40/user-1.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G6jX17iqiW8R7PzxthysaaAEwnORewZjVE+sVFkHJGo="
+          "Value": "sha256-xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-2.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-2.uc9rcuq79q.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uc9rcuq79q"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-details/40x40/user-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-3.gtm7mg8jhl.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gtm7mg8jhl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-details/40x40/user-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-3.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-4.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/40x40/user-4.z6mvipsdrn.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6mvipsdrn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-details/40x40/user-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/822x337/image-1.10sfrdopzw.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "10sfrdopzw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/blog-details/822x337/image-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/blog-details/822x337/image-1.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw="
         }
       ]
     },
@@ -16614,416 +17024,6 @@
       ]
     },
     {
-      "Route": "assets/img/blog-details/40x40/user-1.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4494"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-1.wj7ckmzie5.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4494"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wj7ckmzie5"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/blog-details/40x40/user-1.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xPJa/qqOBTKzVTRuXE+/jA1r4nMOtEYfKkHtXFQfSh8="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-2.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5045"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-2.uc9rcuq79q.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5045"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uc9rcuq79q"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/blog-details/40x40/user-2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HowS7kiHGpYTPD55ukQU4jMJx56GVFsQ5m2t7jwBM3A="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-3.gtm7mg8jhl.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4948"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gtm7mg8jhl"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/blog-details/40x40/user-3.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-3.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4948"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vDrgl3fKE2L8wjsCCLEXBoV6Fmpzquq8KeNhtEUnDqA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-4.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4649"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/40x40/user-4.z6mvipsdrn.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4649"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z6mvipsdrn"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/blog-details/40x40/user-4.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5SdMiVj8iJfZNPG0V52DUNg0GfKfLmu5pyE8QKawrOw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/822x337/image-1.10sfrdopzw.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "321507"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "10sfrdopzw"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/blog-details/822x337/image-1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/blog-details/822x337/image-1.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "321507"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gUpaIxLK/ANBijTfgK8ye9Ghehn2KRCawqzQ5HYwgzw="
-        }
-      ]
-    },
-    {
       "Route": "assets/img/card-back.2s29zjiaqc.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\card-back.jpg",
       "Selectors": [],
@@ -17352,88 +17352,6 @@
       ]
     },
     {
-      "Route": "assets/img/Category/burgers.43uhe5bf4g.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "709981"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:16:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "43uhe5bf4g"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/Category/burgers.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/Category/burgers.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "709981"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:16:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA="
-        }
-      ]
-    },
-    {
       "Route": "assets/img/Category/burgers-1.j08njfykg2.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers-1.jpg",
       "Selectors": [],
@@ -17512,6 +17430,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-rcjzJyFVv9eZclBRaH/MQANED7E7wkCT8VVLS2Ie9Uc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/Category/burgers.43uhe5bf4g.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 10:16:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43uhe5bf4g"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/Category/burgers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/Category/burgers.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 10:16:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kCRI7HZyX1cOJOXKCMPELvaCgVZTpZcUrJU/Z+sGcSA="
         }
       ]
     },
@@ -22354,88 +22354,6 @@
       ]
     },
     {
-      "Route": "assets/img/logo.h14ab0kgov.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h14ab0kgov"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/logo.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/logo.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="
-        }
-      ]
-    },
-    {
       "Route": "assets/img/logo-2.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-2.jpg",
       "Selectors": [],
@@ -22924,6 +22842,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-6D2MXyePnd0j00Z3ttnRN6SZx91fIaqN4xeV3Rv3bRU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.h14ab0kgov.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h14ab0kgov"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/logo.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C6KZdyNkXLjWQ7hOgpqX8AeKY0IIFV7KKRRv5Hk6uhA="
         }
       ]
     },
@@ -34408,8 +34408,8 @@
       ]
     },
     {
-      "Route": "assets/img/user/user.ggywtv2sxz.jpeg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "Route": "assets/img/user-1.9t2fs953pn.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -34418,19 +34418,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11134"
+          "Value": "3010"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=\""
+          "Value": "\"A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 21:19:23 GMT"
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34440,21 +34440,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ggywtv2sxz"
+          "Value": "9t2fs953pn"
         },
         {
           "Name": "label",
-          "Value": "assets/img/user/user.jpeg"
+          "Value": "assets/img/user-1.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw="
+          "Value": "sha256-A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo="
         }
       ]
     },
     {
-      "Route": "assets/img/user/user.jpeg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "Route": "assets/img/user-1.png",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -34463,19 +34463,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11134"
+          "Value": "3010"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=\""
+          "Value": "\"A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 21:19:23 GMT"
+          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34485,7 +34485,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw="
+          "Value": "sha256-A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo="
         }
       ]
     },
@@ -34818,6 +34818,88 @@
       ]
     },
     {
+      "Route": "assets/img/user/user.ggywtv2sxz.jpeg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 21:19:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ggywtv2sxz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/user/user.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/user/user.jpeg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 21:19:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kFCNqJdaY3ufyPTbm6NlwS6Jb9518VDCkD78nFoQnUw="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/user/user50-50.0o3axkwp2x.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user50-50.jpg",
       "Selectors": [],
@@ -34896,88 +34978,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-EALWA394xRVKpBIArx6Gb3l7upjqwm2vN+IgLVxaKHg="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/user-1.9t2fs953pn.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3010"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9t2fs953pn"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/img/user-1.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/img/user-1.png",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3010"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2019 16:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A9T8bsb062vdIHBn+0nNZlGgvgoXM1G9JMFczbmT3Uo="
         }
       ]
     },
@@ -36864,662 +36864,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4gxs3k148c"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fctod5rc9n"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve6x09088i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
         }
       ]
     },
@@ -39492,6 +38836,662 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73kdqttayv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpyigms19s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gxs3k148c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9b9oa1qrmt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fctod5rc9n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve6x09088i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -40558,8 +40558,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40568,7 +40568,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -40576,7 +40576,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -40590,21 +40590,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwhahm2icz"
+          "Value": "47otxtyo56"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40613,7 +40613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -40621,7 +40621,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -40635,13 +40635,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40650,15 +40650,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "137972"
+          "Value": "5824"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
         },
         {
           "Name": "Last-Modified",
@@ -40672,21 +40672,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5pze98is44"
+          "Value": "4v8eqarkd7"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40695,7 +40695,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "5824"
         },
         {
           "Name": "Content-Type",
@@ -40703,7 +40703,44 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
         },
         {
           "Name": "Last-Modified",
@@ -40717,21 +40754,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dd6z7egasc"
+          "Value": "356vix0kms"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -40740,15 +40777,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89501"
+          "Value": "1139"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
         },
         {
           "Name": "Last-Modified",
@@ -40762,126 +40799,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mlv21k5csn"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
@@ -41296,8 +41214,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -41306,7 +41224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -41314,7 +41232,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
@@ -41328,21 +41246,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "47otxtyo56"
+          "Value": "fwhahm2icz"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+          "Value": "lib/jquery/dist/jquery.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -41351,7 +41269,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -41359,7 +41277,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
@@ -41373,13 +41291,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -41388,89 +41306,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "137972"
         },
         {
           "Name": "Content-Type",
@@ -41478,7 +41314,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
         },
         {
           "Name": "Last-Modified",
@@ -41492,21 +41328,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "356vix0kms"
+          "Value": "5pze98is44"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+          "Value": "lib/jquery/dist/jquery.min.map"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -41515,15 +41351,60 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "89501"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
         },
         {
           "Name": "Last-Modified",
@@ -41537,7 +41418,126 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv21k5csn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     },
@@ -43510,88 +43510,6 @@
       ]
     },
     {
-      "Route": "MenuItemImages/v7.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:50:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ="
-        }
-      ]
-    },
-    {
-      "Route": "MenuItemImages/v7.r3p05w13f5.jpg",
-      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "163225"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 13:50:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "r3p05w13f5"
-        },
-        {
-          "Name": "label",
-          "Value": "MenuItemImages/v7.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ="
-        }
-      ]
-    },
-    {
       "Route": "MenuItemImages/v7_2.0zbpve2yt3.jpg",
       "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7_2.jpg",
       "Selectors": [],
@@ -43670,6 +43588,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-3B/93ie4QBYt1UP5ah7LpenodtVqb76xPPD+5AYBKgE="
+        }
+      ]
+    },
+    {
+      "Route": "MenuItemImages/v7.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 13:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ="
+        }
+      ]
+    },
+    {
+      "Route": "MenuItemImages/v7.r3p05w13f5.jpg",
+      "AssetFile": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 13:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3p05w13f5"
+        },
+        {
+          "Name": "label",
+          "Value": "MenuItemImages/v7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Qu+a7M4NJHk486GOZlV6ig6wy2sNuOXDZHbECF80CQ="
         }
       ]
     },

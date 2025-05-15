@@ -301,10 +301,6 @@
       "PackagePath": "staticwebassets\\assets\\img\\004-shopping-bag.png"
     },
     {
-      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category.rar",
-      "PackagePath": "staticwebassets\\assets\\img\\Category.rar"
-    },
-    {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burger-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Category\\burger-1.jpg"
     },
@@ -807,10 +803,6 @@
     {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\google-logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\google-logo.png"
-    },
-    {
-      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons.rar",
-      "PackagePath": "staticwebassets\\assets\\img\\icons.rar"
     },
     {
       "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons\\account-3.png",
