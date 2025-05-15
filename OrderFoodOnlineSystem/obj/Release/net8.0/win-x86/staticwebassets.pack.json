@@ -1,0 +1,1745 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\OrderFoodOnlineSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OrderFoodOnlineSystem.j3lf9bveqf.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\Burger.jpeg",
+      "PackagePath": "staticwebassets\\CategoryImages\\Burger.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\Drink Category.jpeg",
+      "PackagePath": "staticwebassets\\CategoryImages\\Drink Category.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\Sushi.jpeg",
+      "PackagePath": "staticwebassets\\CategoryImages\\Sushi.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\pasta.jpeg",
+      "PackagePath": "staticwebassets\\CategoryImages\\pasta.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\pizza.jpeg",
+      "PackagePath": "staticwebassets\\CategoryImages\\pizza.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\CategoryImages\\shop-37.jpg",
+      "PackagePath": "staticwebassets\\CategoryImages\\shop-37.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\7349cebd-5df1-43b3-bc01-78d84408aaf2.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Bacon Burger.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Bacon Burger.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\California Roll.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\California Roll.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Carrot Cake.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Carrot Cake.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Cheesecake.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Cheesecake.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Chocolate Lava Cake.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Chocolate Lava Cake.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Classic Cheeseburger.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Classic Cheeseburger.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Dragon Roll.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Dragon Roll.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Fettuccine Alfredo.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Fettuccine Alfredo.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Four Cheese Pizza.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Four Cheese Pizza.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Fruit Tart.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Fruit Tart.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Hawaiian Pizza.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Hawaiian Pizza.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Iced Coffee.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Iced Coffee.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Margherita Pizza.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Margherita Pizza.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Moheto.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Moheto.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Molten Chocolate Cake.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Molten Chocolate Cake.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Mushroom Swiss Burger.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Mushroom Swiss Burger.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Oragne Juice.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Oragne Juice.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Penne Arrabbiata.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Penne Arrabbiata.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Pepperoni Pizza.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Pepperoni Pizza.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Red Wine Bolognese.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Red Wine Bolognese.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Spicy Tuna Roll.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Spicy Tuna Roll.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Strawberry Milkshake.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Strawberry Milkshake.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Tiramisu.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Tiramisu.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\Veggie Supreme.jpeg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\Veggie Supreme.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7.jpg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\v7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\MenuItemImages\\v7_2.jpg",
+      "PackagePath": "staticwebassets\\MenuItemImages\\v7_2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\Burger King.jpeg",
+      "PackagePath": "staticwebassets\\RestaurantImages\\Burger King.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\Ginger.JPG",
+      "PackagePath": "staticwebassets\\RestaurantImages\\Ginger.JPG"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\PizzaHut.jpeg",
+      "PackagePath": "staticwebassets\\RestaurantImages\\PizzaHut.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\Sweet Delight.PNG",
+      "PackagePath": "staticwebassets\\RestaurantImages\\Sweet Delight.PNG"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\Tasty bites.PNG",
+      "PackagePath": "staticwebassets\\RestaurantImages\\Tasty bites.PNG"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\RestaurantImages\\papaJohn.jpeg",
+      "PackagePath": "staticwebassets\\RestaurantImages\\papaJohn.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\Flaticond41d.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\001-search.png",
+      "PackagePath": "staticwebassets\\assets\\img\\001-search.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\002-stopwatch.png",
+      "PackagePath": "staticwebassets\\assets\\img\\002-stopwatch.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\003-placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\img\\003-placeholder.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\004-shopping-bag.png",
+      "PackagePath": "staticwebassets\\assets\\img\\004-shopping-bag.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burger-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\burger-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burger-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\burger-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\burgers-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\burgers.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\burgers.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\dessert-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\dessert-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\juice.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\juice.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-1.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-11.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-15.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-20.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pasta-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pasta-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pastas.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pastas.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pizaa-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pizaa-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pizza-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pizza-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\pizza-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\pizza-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Category\\sushi-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Category\\sushi-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Delivery.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Delivery.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\M.png",
+      "PackagePath": "staticwebassets\\assets\\img\\M.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\Masjo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Masjo.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\72x72\\user-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\72x72\\user-1.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\1110x350\\hbanner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\1110x350\\hbanner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\1110x350\\hbanner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\1110x350\\hbanner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\1920x700\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\1920x700\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\1920x700\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\1920x700\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\1920x700\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\1920x700\\banner-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\255x200\\about-section-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\255x200\\about-section-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\255x200\\about-section-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\255x200\\about-section-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\255x200\\about-section-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\255x200\\about-section-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\740x442\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\740x442\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\about\\blog\\740x442\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\blog\\740x442\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\amex-card-back.png",
+      "PackagePath": "staticwebassets\\assets\\img\\amex-card-back.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\amex-card-front.png",
+      "PackagePath": "staticwebassets\\assets\\img\\amex-card-front.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\appstore.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\appstore.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\arrow-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow-2.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\arrow-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow-3.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-11.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-13.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-14.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\banner20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner20.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\burger.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\burger.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\hd.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\hd.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\banner\\hd2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\hd2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-details\\40x40\\user-1.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-details\\40x40\\user-2.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-details\\40x40\\user-3.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\40x40\\user-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-details\\40x40\\user-4.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog-details\\822x337\\image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-details\\822x337\\image-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\100x100\\popularpost-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\100x100\\popularpost-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\100x100\\popularpost-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\100x100\\popularpost-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\100x100\\popularpost-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\100x100\\popularpost-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\406x239\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\406x239\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\406x239\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\406x239\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\426x311\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\426x311\\blog-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\438x180\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\438x180\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\438x180\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\438x180\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\438x180\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\438x180\\shop-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\446x1025\\ad-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\446x1025\\ad-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\446x501\\ff-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\446x501\\ff-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\ad-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\ad-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\blog\\optin-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\optin-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\card-back.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\card-back.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\card-front.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\card-front.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\checkout.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\checkout.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\checkout.png",
+      "PackagePath": "staticwebassets\\assets\\img\\checkout.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\360x178\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\360x178\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\360x178\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\360x178\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\360x178\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\360x178\\shop-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\88x112\\mdeals-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\88x112\\mdeals-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\deals\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\deals\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\banner.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\dish-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\dish-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\dish-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\dish-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\dish-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\dish-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\dish-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\dish-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\details\\dish-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\details\\dish-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\dish\\150x151\\dish-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dish\\150x151\\dish-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\facebook-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\facebook-logo.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\fianl logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fianl logo.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gallery\\img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\img-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\gift-box.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gift-box.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\google-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\google-logo.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons\\account-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\account-3.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\icons\\home2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\home2.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\log2.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\log2.JPG"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\logoV5-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logoV5-Photoroom.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mastercard.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\nav-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\nav-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\offer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\package\\package-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package\\package-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\package\\package-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package\\package-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\package\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\package\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\package\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\pay-pal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pay-pal.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\playstore.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\playstore.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\promo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\promo.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\1110x100\\vbanner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\1110x100\\vbanner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\1110x100\\vbanner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\1110x100\\vbanner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\1110x100\\vbanner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\1110x100\\vbanner-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-11.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\125x125\\cuisine-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\125x125\\cuisine-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\160x160\\bcuisine-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\160x160\\bcuisine-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\220x220\\nearme-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\220x220\\nearme-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\250x200\\insta-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\250x200\\insta-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x104\\order-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x104\\order-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x104\\order-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x104\\order-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x104\\order-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x104\\order-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x104\\order-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x104\\order-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-11.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-12.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-13.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-14.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-15.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-16.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-17.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-18.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-19.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-20.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-21.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-22.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-23.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-24.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-25.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-26.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-27.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-27.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-28.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-28.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-29.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-29.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-30.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-30.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-31.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-31.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-32.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-32.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-33.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-33.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-34.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-34.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-35.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-35.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-36.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-36.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-37.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-37.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-38.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-38.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-39.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-39.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-40.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-40.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x150\\shop-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x150\\shop-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-11.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-12.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\255x587\\Banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\255x587\\Banner-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\287x702\\ad-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\287x702\\ad-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\540x300\\collection-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\540x300\\collection-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-10.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-4.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-7.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x240\\shop-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x240\\shop-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x336\\collection-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x336\\collection-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\604x336\\collection-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\604x336\\collection-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-5.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-6.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-8.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\90x90\\shop-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\90x90\\shop-9.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\restaurants\\inner-pop.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\restaurants\\inner-pop.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\review-footer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\review-footer.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\shop-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-1.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\sidebanner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebanner-1.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\sidebanner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebanner-2.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\sidebanner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sidebanner-3.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\004-leaf.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\004-leaf.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\005-chef.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\005-chef.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\006-chili.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\006-chili.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\007-chili-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\007-chili-1.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\008-protein.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\008-protein.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\009-lemon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\009-lemon.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\010-heart.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\010-heart.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\svg\\013-heart-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\svg\\013-heart-1.svg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\tag.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tag.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user-1.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user-1.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user-2.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user-3.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user-4.png"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user.jpeg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\user\\user50-50.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user50-50.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\video-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video-banner.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\img\\visa.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\visa.jpg"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\munchbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\munchbox.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\sticksy.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sticksy.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\assets\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Intern & Courses\\iTi 4-Months\\Backend\\6-MVC\\Project\\MasJo-Bites\\OrderFoodOnlineSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.OrderFoodOnlineSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.OrderFoodOnlineSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.OrderFoodOnlineSystem.props",
+      "PackagePath": "build\\OrderFoodOnlineSystem.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.OrderFoodOnlineSystem.props",
+      "PackagePath": "buildMultiTargeting\\OrderFoodOnlineSystem.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.OrderFoodOnlineSystem.props",
+      "PackagePath": "buildTransitive\\OrderFoodOnlineSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
